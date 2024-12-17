@@ -2,7 +2,7 @@
 # exit on error
 set -o errexit
 
-cd Project_2_Favourite_Movies'
+cd Project_2_Favourite_Movies
 
 pip install -r requirements.txt
 python3 manage.py collectstatic --no-input
