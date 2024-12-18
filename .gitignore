@@ -1,5 +1,13 @@
 /Project 1/venv/
+/Project 1/config/__pycache__/
+/Project 1/my_app/__pycache__/
 /Project_2_Favourite_Movies/venv/
+/Project_2_Favourite_Movies/config/__pycache__/
+/Project_2_Favourite_Movies/movies/__pycache__/
 /Project_3_Job_Board/venv/
+/Project_3_Job_Board/config/__pycache__/
+/Project_3_Job_Board/job_board/__pycache__/
 /Project_3_Job_Board/notes.txt
 /Project_4_Links_App/venv/
+/Project_4_Links_App/config/__pycache__/
+/Project_4_Links_App/links/__pycache__/
