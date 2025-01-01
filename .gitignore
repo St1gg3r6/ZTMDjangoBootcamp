@@ -4,5 +4,8 @@ venv/
 # Ignore all __pycache__ folders globally
 __pycache__/
 
+# Ignore all .DS_Store files globally
+.DS_Store
+
 # Others
 /Project_3_Job_Board/notes.txt
